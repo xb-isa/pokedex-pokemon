@@ -140,6 +140,11 @@ main .hover-eletrico:hover {
   background-color: #fae56ed6;
 }
 
+main .hover-terra:hover {
+  /* background-color: #e3cb6bc2; */
+  background-color: #e4cd72c2;
+}
+
 .modo-escuro .hover-grama:hover {
   background-color: #7daa62e2
 }
@@ -166,6 +171,10 @@ main .hover-eletrico:hover {
 
 .modo-escuro .hover-eletrico:hover {
   background-color: #c1af49d6;
+}
+
+.modo-escuro .hover-terra:hover {
+  background-color: #a6a173c8;
 }
 
 main .cartao-pokemon .info {
@@ -214,6 +223,10 @@ main .cartao-pokemon:hover .info-eletrico {
   background-color: #ffdd1b;
 }
 
+main .cartao-pokemon:hover .info-terra {
+  background-color: #eccd00;
+}
+
 .modo-escuro .cartao-pokemon:hover .info-grama {
   background-color: #64a93c;
 }
@@ -240,6 +253,10 @@ main .cartao-pokemon:hover .info-eletrico {
 
 .modo-escuro .cartao-pokemon:hover .info-eletrico {
   background-color: #dab900;
+}
+
+.modo-escuro .cartao-pokemon:hover .info-terra {
+  background-color: #c1ab18;
 }
 
 main .cartao-pokemon .gif {
@@ -287,6 +304,10 @@ main .cartao-pokemon .normal {
 
 main .cartao-pokemon .eletrico {
   background-color: #dbbe1e;
+}
+
+main .cartao-pokemon .terra {
+  background: linear-gradient(180deg, #d8c020 50%, #a08e41 50%);
 }
 
 main .descricao {
